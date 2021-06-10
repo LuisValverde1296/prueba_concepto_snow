@@ -3,4 +3,4 @@ Prueba de concepto desarrollada en Python como un programa de línea de comandos
 ## Instruciones:
 
   - Abrir una consola en la carpeta donde se descargue este repositorio.
-  - Correr el comando .\preguntas.py
+  - Correr el comando  "python .\preguntas.py"
